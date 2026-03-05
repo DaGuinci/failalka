@@ -183,3 +183,5 @@ yarn-error.log
 
 # workflow files
 myNotes.md
+.github/
+.vscode/
